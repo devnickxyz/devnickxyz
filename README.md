@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devnickxyz
-- 👀 I’m interested in DevOps idea and technolgoy.
+- 👀 I’m interested in DevOps idea and technology.
 - 🌱 I’m currently learning Ansible, Terraform, Docker, Docker Swarm, Python, nginx etc. :P
 - 💞️ I’m looking to collaborate on ... soon :D
 - 📫 How to reach me ... not yet :D
